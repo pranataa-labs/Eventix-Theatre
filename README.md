@@ -1,5 +1,7 @@
 # 🎟️ Eventix Theatre - Event Management System
 
+[`laravel`](https://github.com/topics/laravel) • [`filamentphp`](https://github.com/topics/filamentphp) • [`midtrans`](https://github.com/topics/midtrans) • [`ticketing`](https://github.com/topics/ticketing) • [`event-management`](https://github.com/topics/event-management) • [`qr-code`](https://github.com/topics/qr-code) • [`tailwind`](https://github.com/topics/tailwind) • [`mysql`](https://github.com/topics/mysql)
+
 A professional, full-featured Event Management and Ticketing System built with **Laravel 13** and **FilamentPHP**. This application allows organizers to create events, manage dynamic ticket quotas, seamlessly process payments using the **Midtrans Payment Gateway**, and features an integrated Audit Log system.
 
 ---
